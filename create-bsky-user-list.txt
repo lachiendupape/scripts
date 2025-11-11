@@ -1,0 +1,7 @@
+{
+  $type: "app.bsky.graph.list",
+  purpose: "app.bsky.graph.defs#curatelist",
+  name: "BHAFC",
+  description: "Brighton fans",
+  createdAt: "2024-11-23T16:30:25.326Z"
+}
